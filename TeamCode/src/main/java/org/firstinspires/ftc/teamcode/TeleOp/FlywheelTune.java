@@ -8,7 +8,6 @@ import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.hardware.DcMotorEx;
 
 import org.firstinspires.ftc.teamcode.TeleOp.flywheel.BinarySearch;
-
 @TeleOp(name = "Flywheel Tuning")
 public class FlywheelTune extends LinearOpMode {
 
